@@ -23,7 +23,7 @@ Hoje, reservar um restaurante passa por três ou mais aplicativos: o Google Maps
 
 Uma plataforma única que conecta clientes e restaurantes, com disponibilidade em tempo real.
 
-| | |
+| Funcionalidade | O que muda para você |
 |---|---|
 | 🗺️ **Planta interativa do salão** | Você vê o mapa do restaurante e escolhe onde sentar: na janela, na área externa ou longe da cozinha. |
 | 🟢 **Disponibilidade ao vivo** | Mesa verde está livre, vermelha está ocupada, e as cores mudam na hora para todo mundo. |
